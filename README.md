@@ -5,7 +5,7 @@ My shell, called smash (for Super Madison shell) is a simple variant of a UNIX s
 It contains several key components/functionalities of a usual shell.
 
 # A quick note on usage
-This shell expects users to specify the binary folders (namely `/bin/`) when inputting commands.
+This shell expects binary folders (namely `/bin/`) be specified when inputting commands.
 For example, **this** throws an error `smash > ls`, but **this** doesn't `smash > /bin/ls`.
 
 # Built-in Commands
